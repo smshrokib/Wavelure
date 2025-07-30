@@ -1,23 +1,54 @@
-# p5.js Mathematical Shape Animation
+<!-- Banner / Title -->
+<h1 align="center">🎨 p5.js Mathematical Shape Animation 💫</h1>
+<p align="center">
+  An interactive p5.js sketch for mesmerizing, math-driven visuals.<br/>
+  <em>Create organic, ever-changing shapes with nothing but sine & cosine!</em>
+</p>
 
-An interactive p5.js sketch that creates beautiful animated shapes using mathematical functions, particularly trigonometric functions like sine and cosine.
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/built%20with-p5.js-%23ED225D" alt="Built with p5.js">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-green" alt="License MIT">
+  </a>
+  <!-- Optional: add a live demo badge if you have one -->
+  <!-- <a href="https://your-demo-link.com"><img src="https://img.shields.io/badge/demo-online-blue"></a> -->
+</p>
+
+---
+
+## 📑 Table of Contents
+1. [Features](#features)
+2. [How It Works](#how-it-works)
+3. [Mathematical Functions Used](#mathematical-functions-used)
+4. [Controls](#controls)
+5. [Customization Ideas](#customization)
+6. [Getting Started](#getting-started)
+7. [Adjustable Parameters](#parameters-you-can-adjust)
+8. [Requirements](#requirements)
+9. [File Structure](#file-structure)
+
+---
 
 ## Features
+- ✨ **Animated Organic Shapes**: Uses sine and cosine functions to create flowing, wave-like patterns  
+- ⏱ **Real-time Animation**: Shapes evolve continuously with buttery-smooth transitions  
+- 🕹 **Interactive Controls**: Click to randomize parameters, press <kbd>Space</kbd> to pause/resume  
+- 🥞 **Multiple Layers**: Primary and secondary shapes leverage different mathematical formulas  
+- 🧪 **Customizable Formulas**: Swap in your own math for endless experimentation  
 
-- **Animated Organic Shapes**: Uses sine and cosine functions to create flowing, wave-like patterns
-- **Real-time Animation**: Shapes evolve continuously over time with smooth transitions
-- **Interactive Controls**: Click to randomize parameters, use spacebar to pause/resume
-- **Multiple Layers**: Primary and secondary shapes with different mathematical formulas
-- **Customizable Formulas**: Easy-to-modify placeholder sections for experimenting with different mathematical functions
+---
 
 ## How It Works
-
 The sketch generates shapes by:
 
-1. Creating points around a circle using polar coordinates
-2. Modifying the radius of each point using mathematical functions
-3. Converting polar coordinates to cartesian coordinates for display
-4. Animating the parameters over time for fluid motion
+1. Creating points around a circle using polar coordinates  
+2. Modifying the radius of each point with mathematical functions  
+3. Converting polar coordinates to Cartesian coordinates for display  
+4. Animating parameters over time for fluid motion
+
+---
 
 ## Mathematical Functions Used
 
