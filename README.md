@@ -118,4 +118,4 @@ The code includes placeholder sections with alternative mathematical formulas yo
 └── README.md           # This file
 ```
 
-Experiment with different mathematical functions to create unique, mesmerizing animations!
+🧪✨ Experiment with different mathematical functions to create unique, mesmerizing animations!
